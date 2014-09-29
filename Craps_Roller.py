@@ -2,7 +2,7 @@
 # Demonstrates random number generation
 # Original Author: Michael Dawson
 # Last Edited: Matt Jones
-# Date Edited: 9/28/2014
+# Date Edited: 9/29/2014
 
 import random
 
